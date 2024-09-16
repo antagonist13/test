@@ -5,7 +5,7 @@ import axios from 'axios';
 
 const keyId = 2805; // !!! 1. DO NOT DELETE wrong registers 😁
 const limit = 10000; // 2. Up to 10000 recommended
-const token = `eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NmM0N2QyYWRjZGVhZGQwN2U1NmQyOTUiLCJhdXRoVG9rZW5zIjp7ImFjY2Vzc1Rva2VuIjoiYTliMWEyMzRlMjcyMzMzZmEzMDk2YmI5NTMxYWNlYTdlZTMyMTc1OCIsInJlZnJlc2hUb2tlbiI6ImJiMTk5MGIyMTk4MDg0NWExYTNlZTdkZDhhZWUyYzdiMzRhOTBkYTEifSwiaWF0IjoxNzI2NDcxOTkxLCJleHAiOjE3MjY1NTgzOTF9.aJI3-KBLYr7-MrTFn2mn3jbr2AG7_9jc_HLLIIC5XR8`; // 3. Valid token
+const token = ``; // 3. Valid token
 const authority = 'cabinet-bpmn-diia-stg.kitsoft.kiev.ua'; // 4. Proper API link
 // Наприклад, const authority = 'cabinet-api-bpmn-sportsporudy-stg.kitsoft.kiev.ua';
 
